@@ -1,0 +1,13 @@
+.icons{
+    overflow: hidden;
+    margin:5px;
+}
+.icons.active{
+	border-radius: 10px;
+    box-shadow: 0 0px 5px #333;
+}
+.icon_h{
+    margin: 0 auto;
+    border-radius: 10px;
+    background:#eee;
+}

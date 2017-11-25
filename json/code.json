@@ -1,0 +1,35 @@
+{
+    "name": "cmuiapi2",
+    "btn":
+    {
+        "code": "<div class='tempAddclass'>\n\t按钮\n</div>"
+    },
+    "badge":
+    {
+        "code": "<div class='tempAddclass'>\n\t标签\n</div>"
+    },
+    "text":
+    {
+        "code": "<div class='tempAddclass'>\n\taddText\n</div>"
+    },
+    "margin":
+    {
+        "code": "<div class='tempAddclass'>\n\taddText\n</div>"
+    },
+    "padding":
+    {
+        "code": "<div class='tempAddclass'>\n\taddText\n</div>"
+    },
+    "borders":
+    {
+        "code": "<div class='tempAddclass'>\n\taddText\n</div>"
+    },
+    "flex":
+    {
+        "code": "<div class='tempAddclass'>\n\t<div>1</div>\n\t<div>2</div>\n\t<div>3</div>\n</div>"
+    },
+    "icons":
+    {
+        "code": "<i class='tempAddclass'></i>"
+    }
+}

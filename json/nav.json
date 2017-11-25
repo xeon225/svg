@@ -1,0 +1,89 @@
+{
+    "name": "cmuiapi",
+    "nav":{
+        "default":{
+            "chn": "首页",
+            "eng": "home",
+            "id": "home",
+            "icon":"cmui_home"
+        },
+        "data": [
+            {
+                "name": "首页",
+                "icon": "cmui_home",
+                "engname": "home",
+                "id":"tables"
+            },
+            {
+                "name": "UI元素",
+                "icon": "cmui_ui",
+                "id":"UI",
+                "list": [
+                    {
+                        "chn": "按钮",
+                        "eng": "btn"
+
+                    },
+                    {
+                        "chn": "标签",
+                        "eng": "badge"
+                    },
+                    {
+                        "chn": "文言",
+                        "eng": "text"
+                    }
+                ]
+            },
+            {
+                "name": "盒子模型",
+                "icon": "cmui_box",
+                "id":"UI",
+                "list": [
+                    {
+                        "chn": "外边距",
+                        "eng": "margin"
+
+                    },
+                    {
+                        "chn": "填充",
+                        "eng": "padding"
+                    },
+                    {
+                        "chn": "边框",
+                        "eng": "border"
+                    }
+                ]
+            },
+            {
+                "name": "表格",
+                "icon": "cmui_table",
+                "engname": "tables",
+                "id":"tables"
+            },
+            {
+                "name": "布局",
+                "icon": "cmui_flex",
+                "engname": "flex",
+                "id":"flex"
+            },
+            {
+                "name": "选项卡",
+                "icon": "cmui_tab",
+                "engname": "tab",
+                "id":"tab"
+            },
+            {
+                "name": "轮播组件",
+                "icon": "cmui_swiper",
+                "engname": "swiper",
+                "id":"swiper"
+            },
+            {
+                "name": "图标",
+                "icon": "cmui_icons",
+                "engname": "icon",
+                "id":"icon_h"
+            }
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "cmuiapi2",
+    "html":{
+        "div":{
+            "code": "<div class='tempAddclass'>\n</div>"
+        },
+        "span":{
+            "code": "<span class='tempAddclass'>\n</span>"
+        }
+    }
+}

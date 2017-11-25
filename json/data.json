@@ -1,0 +1,1225 @@
+{
+    "name": "cmuiapi",
+    "btn":{
+        "mode":"combination",
+        "pra": "btn",
+        "data": [
+            {
+                "name": "style",
+                "list": {
+                    "tag": {
+                        "pra": "btn",
+                        "cls": "btn",
+                        "add": "check"
+                    },
+                    "list": [
+                        {
+                            "name": "btn-radius"
+                        },
+                        {
+                            "name": "btn-reverse"
+                        },
+                        {
+                            "name": "btn-link"
+                        },
+                        {
+                            "name": "btn-group"
+                        },
+                        {
+                            "name": "btn-focus"
+                        },
+                        {
+                            "name": "btn-active"
+                        },
+                        {
+                            "name": "btn-disabled"
+                        },
+                        {
+                            "name": "btn-block"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "color",
+                "list": {
+                    "tag": {
+                        "pra": "btn",
+                        "cls": "btn",
+                        "add": "doubleCircle"
+                    },
+                    "list": [
+                        {
+                            "name": "btn-black"
+                        },
+                        {
+                            "name": "btn-white"
+                        },
+                        {
+                            "name": "btn-green"
+                        },
+                        {
+                            "name": "btn-red"
+                        },
+                        {
+                            "name": "btn-orange"
+                        },
+                        {
+                            "name": "btn-blue"
+                        },
+                        {
+                            "name": "btn-yellow"
+                        },
+                        {
+                            "name": "btn-coffee"
+                        },
+                        {
+                            "name": "btn-purple"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "size",
+                "list": {
+                    "tag": {
+                        "pra": "btn",
+                        "cls": "btn",
+                        "add": "doubleCircle"
+                    },
+                    "list": [
+                        {
+                            "name": "btn-small"
+                        },
+                        {
+                            "name": "btn-big"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "badge":{
+        "mode":"combination",
+        "pra": "badge",
+        "data": [
+            {
+                "name": "style",
+                "list": {
+                    "tag": {
+                        "pra": "badge",
+                        "cls": "badge",
+                        "add": "check"
+                    },
+                    "list": [
+                        {
+                            "name": "badge-round"
+                        },
+                        {
+                            "name": "badge-radius"
+                        },
+                        {
+                            "name": "badge-reverse"
+                        },
+                        {
+                            "name": "badge-pill"
+                        },
+                        {
+                            "name": "badge-flag"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "color",
+                "list": {
+                    "tag": {
+                        "pra": "badge",
+                        "cls": "badge",
+                        "add": "doubleCircle"
+                    },
+                    "list": [
+                        {
+                            "name": "badge-black"
+                        },
+                        {
+                            "name": "badge-white"
+                        },
+                        {
+                            "name": "badge-green"
+                        },
+                        {
+                            "name": "badge-red"
+                        },
+                        {
+                            "name": "badge-orange"
+                        },
+                        {
+                            "name": "badge-blue"
+                        },
+                        {
+                            "name": "badge-yellow"
+                        },
+                        {
+                            "name": "badge-coffee"
+                        },
+                        {
+                            "name": "badge-purple"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "size",
+                "list": {
+                    "tag": {
+                        "pra": "badge",
+                        "cls": "badge",
+                        "add": "doubleCircle"
+                    },
+                    "list": [
+                        {
+                            "name": "badge-small"
+                        },
+                        {
+                            "name": "badge-big"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "border":{
+        "mode":"independent",
+        "data": [
+            {
+                "name": "default",
+                "list": {
+                    "tag": {
+                        "pra": "borders",
+                        "cls": "borders",
+                        "add": "doubleCircle"
+                    },
+                    "list": [
+                        {
+                            "name": "border",
+                            "text": "边框"
+                        },
+                        {
+                            "name": "borderl",
+                            "text": "左边框"
+                        },
+                        {
+                            "name": "borderr",
+                            "text": "右边框"
+                        },
+                        {
+                            "name": "bordert",
+                            "text": "上边框"
+                        },
+                        {
+                            "name": "borderb",
+                            "text": "下边框"
+                        },
+                        {
+                            "name": "borderh",
+                            "text": "左右边框"
+                        },
+                        {
+                            "name": "borderv",
+                            "text": "上下边框"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "style",
+                "list": {
+                    "tag": {
+                        "pra": "borders",
+                        "cls": "borders",
+                        "add": "check"
+                    },
+                    "list": [
+                        {
+                            "name": "border-item",
+                            "text": "表格"
+                        },
+                        {
+                            "name": "border-itemv",
+                            "text": "分隔线"
+                        },
+                        {
+                            "name": "border-round",
+                            "text": "圆"
+                        },
+                        {
+                            "name": "border-radius",
+                            "text": "圆角"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "form":{
+        "mode":"independent",
+        "data": [
+            {
+                "name": "default",
+                "list": {
+                    "tag": {
+                        "pra": "form",
+                        "cls": "default",
+                        "add": "doubleCircle"
+                    },
+                    "list": [
+                        {
+                            "name": "textarea"
+                        },
+                        {
+                            "name": "select"
+                        },
+                        {
+                            "name": "input"
+                        },
+                        {
+                            "name": "label"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "input":{
+        "mode":"independent",
+        "data": [
+            {
+                "name": "input[type]",
+                "list": {
+                    "tag": {
+                        "pra": "input",
+                        "cls": "input[type]",
+                        "add": "doubleCircle"
+                    },
+                    "list": [
+                        {
+                            "type": "text"
+                        },
+                        {
+                            "type": "file"
+                        },
+                        {
+                            "type": "radio"
+                        },
+                        {
+                            "type": "checkbox"
+                        },
+                        {
+                            "type": "color"
+                        },
+                        {
+                            "type": "date"
+                        },
+                        {
+                            "type": "datetime-local"
+                        },
+                        {
+                            "type": "datetime"
+                        },
+                        {
+                            "type": "email"
+                        },
+                        {
+                            "type": "month"
+                        },
+                        {
+                            "type": "number"
+                        },
+                        {
+                            "type": "password"
+                        },
+                        {
+                            "type": "search"
+                        },
+                        {
+                            "type": "tel"
+                        },
+                        {
+                            "type": "time"
+                        },
+                        {
+                            "type": "url"
+                        },
+                        {
+                            "type": "week"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "color",
+                "list": {
+                    "tag": {
+                        "pra": "input",
+                        "cls": "color",
+                        "add": "doubleCircle"
+                    },
+                    "list": [
+                        {
+                            "name": "form-black"
+                        },
+                        {
+                            "name": "form-white"
+                        },
+                        {
+                            "name": "form-green"
+                        },
+                        {
+                            "name": "form-red"
+                        },
+                        {
+                            "name": "form-orange"
+                        },
+                        {
+                            "name": "form-blue"
+                        },
+                        {
+                            "name": "form-yellow"
+                        },
+                        {
+                            "name": "form-coffee"
+                        },
+                        {
+                            "name": "form-purple"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "text":{
+        "mode":"independent",
+        "data": [
+            {
+                "name": "direction",
+                "list": {
+                    "tag": {
+                        "pra": "text",
+                        "cls": "text",
+                        "add": "doubleCircle"
+                    },
+                    "list": [
+                        {
+                            "name": "text-left",
+                            "text": "文本左对齐"
+                        },
+                        {
+                            "name": "text-center",
+                            "text": "文本居中对齐"
+                        },
+                        {
+                            "name": "text-right",
+                            "text": "文本右对齐"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "style",
+                "list": {
+                    "tag": {
+                        "pra": "text",
+                        "cls": "text",
+                        "add": "doubleCircle"
+                    },
+                    "list": [
+                        {
+                            "name": "text-lowercase",
+                            "text": "小写字母"
+                        },
+                        {
+                            "name": "text-uppercase",
+                            "text": "大写字母"
+                        },
+                        {
+                            "name": "text-capitalize",
+                            "text": "每个单词以大写字母开头"
+                        },
+                        {
+                            "name": "text-bolder",
+                            "text": "字体加粗"
+                        },
+                        {
+                            "name": "text-delete",
+                            "text": "删除线"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "limit fixed",
+                "list": {
+                    "tag": {
+                        "pra": "text",
+                        "cls": "text",
+                        "add": "doubleCircle",
+                        "style": "select",
+                        "otherName": "text"
+                    },
+                    "list": [
+                        {
+                            "name": "text-limit1",
+                            "text": "单行段落溢出"
+                        },
+                        {
+                            "name": "text-limit2",
+                            "text": "两行段落溢出"
+                        },
+                        {
+                            "name": "text-limit3",
+                            "text": "三行段落溢出"
+                        },
+                        {
+                            "name": "text-limit4",
+                            "text": "四行段落溢出"
+                        },
+                        {
+                            "name": "text-limit5",
+                            "text": "五行段落溢出"
+                        },
+                        {
+                            "name": "text-fixed1",
+                            "text": "单行高度段落溢出"
+                        },
+                        {
+                            "name": "text-fixed2",
+                            "text": "两行高度段落溢出"
+                        },
+                        {
+                            "name": "text-fixed3",
+                            "text": "三行高度段落溢出"
+                        },
+                        {
+                            "name": "text-fixed4",
+                            "text": "四行高度段落溢出"
+                        },
+                        {
+                            "name": "text-fixed5",
+                            "text": "五行高度段落溢出"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "color",
+                "list": {
+                    "tag": {
+                        "pra": "text",
+                        "cls": "text",
+                        "add": "doubleCircle"
+                    },
+                    "list": [
+                        {
+                            "name": "text-black"
+                        },
+                        {
+                            "name": "text-white"
+                        },
+                        {
+                            "name": "text-green"
+                        },
+                        {
+                            "name": "text-red"
+                        },
+                        {
+                            "name": "text-orange"
+                        },
+                        {
+                            "name": "text-blue"
+                        },
+                        {
+                            "name": "text-yellow"
+                        },
+                        {
+                            "name": "text-coffee"
+                        },
+                        {
+                            "name": "text-purple"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "size",
+                "list": {
+                    "tag": {
+                        "pra": "text",
+                        "cls": "text",
+                        "add": "doubleCircle",
+                        "style": "select",
+                        "otherName": "size"
+                    },
+                    "list": [
+                        {
+                            "name": "fs-10",
+                            "otherName": "10px"
+                        },
+                        {
+                            "name": "fs-11",
+                            "otherName": "11px"
+                        },
+                        {
+                            "name": "fs-12",
+                            "otherName": "12px"
+                        },
+                        {
+                            "name": "fs-13",
+                            "otherName": "13px"
+                        },
+                        {
+                            "name": "fs-14",
+                            "otherName": "14px"
+                        },
+                        {
+                            "name": "fs-15",
+                            "otherName": "15px"
+                        },
+                        {
+                            "name": "fs-16",
+                            "otherName": "16px"
+                        },
+                        {
+                            "name": "fs-17",
+                            "otherName": "17px"
+                        },
+                        {
+                            "name": "fs-18",
+                            "otherName": "18px"
+                        },
+                        {
+                            "name": "fs-19",
+                            "otherName": "19px"
+                        },
+                        {
+                            "name": "fs-20",
+                            "otherName": "20px"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "line-height",
+                "list": {
+                    "tag": {
+                        "pra": "text",
+                        "cls": "text",
+                        "add": "doubleCircle",
+                        "style": "select",
+                        "otherName": "line"
+                    },
+                    "list": [
+                        {
+                            "name": "lh-1",
+                            "otherName": "1"
+                        },
+                        {
+                            "name": "lh-12",
+                            "otherName": "12px"
+                        },
+                        {
+                            "name": "lh-16",
+                            "otherName": "16px"
+                        },
+                        {
+                            "name": "lh-20",
+                            "otherName": "20px"
+                        },
+                        {
+                            "name": "lh-24",
+                            "otherName": "24px"
+                        },
+                        {
+                            "name": "lh-28",
+                            "otherName": "28px"
+                        },
+                        {
+                            "name": "lh-32",
+                            "otherName": "32px"
+                        },
+                        {
+                            "name": "lh-36",
+                            "otherName": "36px"
+                        },
+                        {
+                            "name": "lh-40",
+                            "otherName": "40px"
+                        },
+                        {
+                            "name": "lh-52",
+                            "otherName": "52px"
+                        },
+                        {
+                            "name": "lh-56",
+                            "otherName": "56px"
+                        },
+                        {
+                            "name": "lh-60",
+                            "otherName": "60px"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "lineTitle",
+                "list": {
+                    "tag": {
+                        "pra": "text",
+                        "cls": "text",
+                        "add": "doubleCircle"
+                    },
+                    "list": [
+                        {
+                            "name": "lineTitle",
+                            "text": "标题"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "flex":{
+        "mode":"independent",
+        "data": [
+            {
+                "name": "direction",
+                "list": {
+                    "tag": {
+                        "pra": "flex",
+                        "cls": "flex-container",
+                        "add": "check"
+                    },
+                    "list": [
+                        {
+                            "name": "top"
+                        },
+                        {
+                            "name": "right"
+                        },
+                        {
+                            "name": "bottom"
+                        },
+                        {
+                            "name": "left"
+                        },
+                        {
+                            "name": "round"
+                        },
+                        {
+                            "name": "line"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "style",
+                "list": {
+                    "tag": {
+                        "pra": "flex",
+                        "cls": "flex-container-col",
+                        "add": "check"
+                    },
+                    "list": [
+                        {
+                            "name": "top"
+                        },
+                        {
+                            "name": "right"
+                        },
+                        {
+                            "name": "bottom"
+                        },
+                        {
+                            "name": "left"
+                        },
+                        {
+                            "name": "round"
+                        },
+                        {
+                            "name": "line"
+                        },
+                        {
+                            "name": "vfull"
+                        },
+                        {
+                            "name": "hfull"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "limit fixed",
+                "list": {
+                    "tag": {
+                        "pra": "text",
+                        "cls": "limit fixed",
+                        "add": "doubleCircle",
+                        "style": "select",
+                        "otherName": "text"
+                    },
+                    "list": [
+                        {
+                            "name": "text-limit1",
+                            "text": "单行段落溢出"
+                        },
+                        {
+                            "name": "text-limit2",
+                            "text": "两行段落溢出"
+                        },
+                        {
+                            "name": "text-limit3",
+                            "text": "三行段落溢出"
+                        },
+                        {
+                            "name": "text-limit4",
+                            "text": "四行段落溢出"
+                        },
+                        {
+                            "name": "text-limit5",
+                            "text": "五行段落溢出"
+                        },
+                        {
+                            "name": "text-fixed1",
+                            "text": "单行高度段落溢出"
+                        },
+                        {
+                            "name": "text-fixed2",
+                            "text": "两行高度段落溢出"
+                        },
+                        {
+                            "name": "text-fixed3",
+                            "text": "三行高度段落溢出"
+                        },
+                        {
+                            "name": "text-fixed4",
+                            "text": "四行高度段落溢出"
+                        },
+                        {
+                            "name": "text-fixed5",
+                            "text": "五行高度段落溢出"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "color",
+                "list": {
+                    "tag": {
+                        "pra": "text",
+                        "cls": "color",
+                        "add": "doubleCircle"
+                    },
+                    "list": [
+                        {
+                            "name": "text-black"
+                        },
+                        {
+                            "name": "text-white"
+                        },
+                        {
+                            "name": "text-green"
+                        },
+                        {
+                            "name": "text-red"
+                        },
+                        {
+                            "name": "text-orange"
+                        },
+                        {
+                            "name": "text-blue"
+                        },
+                        {
+                            "name": "text-yellow"
+                        },
+                        {
+                            "name": "text-coffee"
+                        },
+                        {
+                            "name": "text-purple"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "size",
+                "list": {
+                    "tag": {
+                        "pra": "text",
+                        "cls": "size",
+                        "add": "doubleCircle",
+                        "style": "select",
+                        "otherName": "size"
+                    },
+                    "list": [
+                        {
+                            "name": "fs-10",
+                            "otherName": "10px"
+                        },
+                        {
+                            "name": "fs-11",
+                            "otherName": "11px"
+                        },
+                        {
+                            "name": "fs-12",
+                            "otherName": "12px"
+                        },
+                        {
+                            "name": "fs-13",
+                            "otherName": "13px"
+                        },
+                        {
+                            "name": "fs-14",
+                            "otherName": "14px"
+                        },
+                        {
+                            "name": "fs-15",
+                            "otherName": "15px"
+                        },
+                        {
+                            "name": "fs-16",
+                            "otherName": "16px"
+                        },
+                        {
+                            "name": "fs-17",
+                            "otherName": "17px"
+                        },
+                        {
+                            "name": "fs-18",
+                            "otherName": "18px"
+                        },
+                        {
+                            "name": "fs-19",
+                            "otherName": "19px"
+                        },
+                        {
+                            "name": "fs-20",
+                            "otherName": "20px"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "line-height",
+                "list": {
+                    "tag": {
+                        "pra": "text",
+                        "cls": "ine-height",
+                        "add": "doubleCircle",
+                        "style": "select",
+                        "otherName": "line"
+                    },
+                    "list": [
+                        {
+                            "name": "lh-1",
+                            "otherName": "1"
+                        },
+                        {
+                            "name": "lh-12",
+                            "otherName": "12px"
+                        },
+                        {
+                            "name": "lh-16",
+                            "otherName": "16px"
+                        },
+                        {
+                            "name": "lh-20",
+                            "otherName": "20px"
+                        },
+                        {
+                            "name": "lh-24",
+                            "otherName": "24px"
+                        },
+                        {
+                            "name": "lh-28",
+                            "otherName": "28px"
+                        },
+                        {
+                            "name": "lh-32",
+                            "otherName": "32px"
+                        },
+                        {
+                            "name": "lh-36",
+                            "otherName": "36px"
+                        },
+                        {
+                            "name": "lh-40",
+                            "otherName": "40px"
+                        },
+                        {
+                            "name": "lh-52",
+                            "otherName": "52px"
+                        },
+                        {
+                            "name": "lh-56",
+                            "otherName": "56px"
+                        },
+                        {
+                            "name": "lh-60",
+                            "otherName": "60px"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "lineTitle",
+                "list": {
+                    "tag": {
+                        "pra": "text",
+                        "cls": "lineTitle",
+                        "add": "doubleCircle"
+                    },
+                    "list": [
+                        {
+                            "name": "lineTitle",
+                            "text": "标题"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "margin":{
+        "mode":"independent",
+        "data": [
+            {
+                "name": "default",
+                "list": {
+                    "tag": {
+                        "pra": "margin",
+                        "cls": "margin",
+                        "add": "doubleCircle"
+                    },
+                    "list": [
+                        {
+                            "name": "margin",
+                            "text": "外边距"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "style",
+                "list": {
+                    "tag": {
+                        "pra": "margin",
+                        "cls": "margin",
+                        "add": "doubleCircle"
+                    },
+                    "list": [
+                        {
+                            "name": "margint",
+                            "text": "上边距"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "style",
+                "list": {
+                    "tag": {
+                        "pra": "margin",
+                        "cls": "margin",
+                        "add": "doubleCircle"
+                    },
+                    "list": [
+                        {
+                            "name": "marginr",
+                            "text": "右边距"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "style",
+                "list": {
+                    "tag": {
+                        "pra": "margin",
+                        "cls": "margin",
+                        "add": "doubleCircle"
+                    },
+                    "list": [
+                        {
+                            "name": "marginb",
+                            "text": "下边距"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "style",
+                "list": {
+                    "tag": {
+                        "pra": "margin",
+                        "cls": "margin",
+                        "add": "doubleCircle"
+                    },
+                    "list": [
+                        {
+                            "name": "marginl",
+                            "text": "左边距"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "style",
+                "list": {
+                    "tag": {
+                        "pra": "margin",
+                        "cls": "margin",
+                        "add": "doubleCircle"
+                    },
+                    "list": [
+                        {
+                            "name": "marginv",
+                            "text": "上下边距"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "style",
+                "list": {
+                    "tag": {
+                        "pra": "margin",
+                        "cls": "margin",
+                        "add": "doubleCircle"
+                    },
+                    "list": [
+                        {
+                            "name": "marginh",
+                            "text": "左右边距"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "padding":{
+        "mode":"independent",
+        "data": [
+            {
+                "name": "default",
+                "list": {
+                    "tag": {
+                        "pra": "padding",
+                        "cls": "padding",
+                        "add": "doubleCircle"
+                    },
+                    "list": [
+                        {
+                            "name": "padding",
+                            "text": "填充"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "style",
+                "list": {
+                    "tag": {
+                        "pra": "padding",
+                        "cls": "padding",
+                        "add": "doubleCircle"
+                    },
+                    "list": [
+                        {
+                            "name": "paddingt",
+                            "text": "上填充"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "style",
+                "list": {
+                    "tag": {
+                        "pra": "padding",
+                        "cls": "padding",
+                        "add": "doubleCircle"
+                    },
+                    "list": [
+                        {
+                            "name": "paddingr",
+                            "text": "右填充"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "style",
+                "list": {
+                    "tag": {
+                        "pra": "padding",
+                        "cls": "padding",
+                        "add": "doubleCircle"
+                    },
+                    "list": [
+                        {
+                            "name": "paddingb",
+                            "text": "下填充"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "style",
+                "list": {
+                    "tag": {
+                        "pra": "padding",
+                        "cls": "padding",
+                        "add": "doubleCircle"
+                    },
+                    "list": [
+                        {
+                            "name": "paddingl",
+                            "text": "左填充"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "style",
+                "list": {
+                    "tag": {
+                        "pra": "padding",
+                        "cls": "padding",
+                        "add": "doubleCircle"
+                    },
+                    "list": [
+                        {
+                            "name": "paddingv",
+                            "text": "上下填充"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "style",
+                "list": {
+                    "tag": {
+                        "pra": "padding",
+                        "cls": "padding",
+                        "add": "doubleCircle"
+                    },
+                    "list": [
+                        {
+                            "name": "paddingh",
+                            "text": "左右填充"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
